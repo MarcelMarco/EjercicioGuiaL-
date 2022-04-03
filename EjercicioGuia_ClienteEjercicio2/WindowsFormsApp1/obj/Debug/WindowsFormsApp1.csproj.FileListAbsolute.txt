@@ -1,0 +1,10 @@
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\EjercicioGuia_ClienteEjercicio2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
